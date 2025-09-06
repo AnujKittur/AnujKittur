@@ -18,7 +18,7 @@ Python, SQL, R, Machine Learning, Data Analytics, Automation
 ---
 
 ### 📫 How to reach me
-[Email me](mailto:akittur@umd.edu) | [LinkedIn](https://www.linkedin.com/in/anujkittur)
+[Email me](mailto:akittur@umd.edu) | [LinkedIn](www.linkedin.com/in/anuj-kittur)
 
 ---
 
