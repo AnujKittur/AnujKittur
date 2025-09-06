@@ -5,7 +5,7 @@
 ---
 
 ### 🌱 About Me
-I am a passionate **Data Scientist** experienced in **eSIM testing, customer churn prediction, and data automation**.  
+I am a passionate **Data Scientist** experienced in **eSIM Data Generation, Telecom Analytics**.  
 Currently pursuing **MS in Data Science @ University of Maryland, College Park**.  
 🏊 National-level swimmer with 300+ medals.  
 🏔️ Trekking & nature enthusiast.  
