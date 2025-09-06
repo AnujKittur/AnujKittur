@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Anuj Kittur
 
-<!--
-**AnujKittur/AnujKittur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | MS @ UMD | National-level Swimmer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+I am a passionate **Data Scientist** experienced in **eSIM testing, customer churn prediction, and data automation**.  
+Currently pursuing **MS in Data Science @ University of Maryland, College Park**.  
+🏊 National-level swimmer with 300+ medals.  
+🏔️ Trekking & nature enthusiast.  
+
+---
+
+### 💬 Ask me about
+Python, SQL, R, Machine Learning, Data Analytics, Automation
+
+---
+
+### 📫 How to reach me
+[Email me](mailto:akittur@umd.edu) | [LinkedIn](https://www.linkedin.com/in/anujkittur)
+
+---
+
+### 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujkittur&show_icons=true&theme=radical)
+
+---
+
